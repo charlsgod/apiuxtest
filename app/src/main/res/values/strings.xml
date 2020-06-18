@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">APIUX Test</string>
+    <string name="country_flag">Country flag</string>
+    <string name="exchange_base">Base de Cambio</string>
+    <string name="exchange_type">Tipos de cambio hoy</string>
+    <string name="eur">EUR</string>
+    <string name="usd">USD</string>
+    <string name="turning">¿Girando?</string>
+    <string name="turn_arrow">Turn arrow</string>
+</resources>
